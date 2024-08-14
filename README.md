@@ -1,5 +1,3 @@
-# Creating a README.md file with the rephrased content
-
 # Trading App
 
 This project is a stock dashboard application that utilizes the [Finnhub API](https://finnhub.io/) to provide various stock market functionalities.
