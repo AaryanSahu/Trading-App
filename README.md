@@ -10,7 +10,6 @@ This project is a stock dashboard application that utilizes the [Finnhub API](ht
 - 💸 **Stock Quotes**: Get real-time price information, including the current price and percentage change.
 - 📝 **Detailed Stock Information**: View comprehensive details such as stock name, currency, market capitalization, and more.
 - 📈 **Historical Data Visualization**: Access and visualize historical stock data over different periods (daily, weekly, monthly, yearly).
-- 🌙 **Theme Toggle**: Switch between dark and light themes for the dashboard.
 
 ### Tech Stack
 
